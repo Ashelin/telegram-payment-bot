@@ -1,8 +1,8 @@
 const Telegraf = require('telegraf')
 const { Markup } = Telegraf
 
-const app = new Telegraf('1064358977:AAFwLTIdDZRoez1xwcp7Gqkdv4yF3Z5OQKs')
-const PAYMENT_TOKEN ='381764678:TEST:13646'
+const app = new Telegraf('TOKEN')
+const PAYMENT_TOKEN ='TOKEN'
 
 const products = [{
         name: 'Peperonni',
